@@ -11,6 +11,7 @@
     <div id="app" style="font-family: Arial, sans-serif; padding: 2rem;">
         <h1>Halo, selamat datang!</h1>
         <p>Ini tampilan HTML dasar menggunakan Blade.</p>
+        <p>{{ $deskripsi }}</p>
         <nav>
             <a href="{{ url('/') }}">Beranda</a> |
             <a href="">Login</a>
