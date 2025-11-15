@@ -1,0 +1,24 @@
+php artisan serve : menjalankan projek laravel
+
+npm run dev : menjalankan projek mix yang menggunakan node js
+
+tugas :
+
+1.tampilan Laravel (welcome.blade.php) diubah ke tampilan bootstrap sneat template
+(yg udah download).
+2. jangan dihapus / dibiarkan, copy file views welcome dan ubah Namanya (misal : home.blade.php) . arahkan routes menjadi file yang baru tersebut.
+3.Copy file punya sneat template yg ada di (public/html/index.html) ke dalam home.blade.php
+4. Push ke git
+5. Buat file misal nya : read.me di github (nama anggota kelompok)
+
+Deadline: Pertemuan selanjutnya.
+
+Yg Izin :
+DWI MAHERNA PUTRI
+FIRDA WARDINA
+Yuliani Irma Waty Ujung
+MUZAKKIR
+
+
+Katanya sakit:
+SHIFA NABILA
